@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url(../img/fon.jpg);
+	background-size: cover;
+}
+
+.box{
+	width: 960px;
+	margin: 50px auto;
+	background: #fff;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+img{
+	padding-top: 20px;
+	height: 200px;
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	text-color: #ac1406;
+	font-size: 50px;
+}
+
+h3{
+	font-size: 30px;
+	text-align: center;
+	padding-top: 20px;
+	text-color: #213210;
+}
+
+h4{
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-color: #fff;
+	background: #738b2a;
+	margin-top: 10px;
+}
+
+p{
+	text-color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+.taxt1{
+	text-align: left;
+}
+
+.text2{
+	text-align: center;
+}
+
+.text3{
+	text-align: center;
+}

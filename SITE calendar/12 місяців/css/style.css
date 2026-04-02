@@ -1,0 +1,146 @@
+     *{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	justify-content: end;
+}
+.container{
+	width: 100vw;
+	height: 100vh;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-template-rows: repeat(4, 1fr);
+	gap: 1%;
+}
+.item1{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: end;
+	text-align: center;	
+	background:url(../img/сичень.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+
+.item2{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/лютий.jpg);
+	background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.item3{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/март.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item4{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/апрель.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item5{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/май.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item6{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/июнь.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item7{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/июль.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+}
+.item8{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/август.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item9{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/сентябирь.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item10{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/октябирь.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item11{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/ноябирь.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+.item12{
+	height: 30vh;
+	display: flex;
+	flex-direction: column;
+	text-align: center;	
+	background:url(../img/декабирь.jpg);
+	background-repeat: no-repeat;
+    background-size: cover; 
+
+}
+
+p{
+	background: #cccccc;
+	opacity: 50%;
+	font-size: 24pt;
+	color: black;
+}
+a{
+	
+}
